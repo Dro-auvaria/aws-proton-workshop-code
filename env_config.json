@@ -1,8 +1,8 @@
 {
     "sample-vpc-environment-template": {
-        "role": "arn:aws:iam::990828982247:role/ExampleGithubRole",
+        "role": "arn:aws:iam::696683410008:role/ExampleGithubRole",
         "region": "us-east-1",
-        "state_bucket":"aws-proton-terraform-bucket-990828982247"
+        "state_bucket":"aws-proton-terraform-bucket-696683410008"
     },
     "sample-lambda-function-template": {
         "role": "arn:aws:iam::815138600704:role/ExampleGithubRole",
