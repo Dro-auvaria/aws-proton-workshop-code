@@ -1,10 +1,10 @@
 {
-  "deploymentId" : "c8d97c0b-5e2f-4f73-9002-0aa25851e85c",
+  "deploymentId" : "04b992f5-d968-48fd-b458-474fb5b9b10a",
   "isResourceDeleted" : false,
   "resourceMetadata" : {
-    "arn" : "arn:aws:proton:us-east-1:990828982247:environment/sample-vpc-environment-template",
-    "templateArn" : "arn:aws:proton:us-east-1:990828982247:environment-template/sample-vpc-environment-template",
+    "arn" : "arn:aws:proton:us-east-1:696683410008:environment/sample-vpc-environment-template",
+    "templateArn" : "arn:aws:proton:us-east-1:696683410008:environment-template/sample-vpc-environment-template",
     "templateMajorVersion" : "1",
-    "templateMinorVersion" : "1"
+    "templateMinorVersion" : "0"
   }
 }
