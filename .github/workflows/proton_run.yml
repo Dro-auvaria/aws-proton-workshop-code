@@ -156,8 +156,8 @@ jobs:
       id: assume_role
       uses: aws-actions/configure-aws-credentials@v1
       with:
-        aws-region: ${{ needs.get-deployment-data.outputs.target_region }}
-        role-to-assume: ${{ needs.get-deployment-data.outputs.role_arn }}
+        aws-region: us-east-1 
+        role-to-assume: arn:aws:iam::696683410008:role/ExampleGithubRole
         role-session-name: TF-Github-Actions
 
     # Install the latest version of Terraform CLI and configure the Terraform CLI configuration file with a Terraform Cloud user API token
