@@ -1,6 +1,6 @@
 {
     "sample-vpc-environment-template": {
-        "role": "arn:aws:iam::696683410008:role/service-role/ProtonServiceRole",
+        "role": "arn:aws:iam::696683410008:role/ExampleGithubRole",
         "region": "us-east-1",
         "state_bucket":"aws-proton-terraform-bucket-696683410008"
     }
